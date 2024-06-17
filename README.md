@@ -1,5 +1,4 @@
-# ANPR-BASED-SMART-PARKING-SYSTEM
-# ANPR & OCR Based Smart Parking System
+]# ANPR & OCR Based Smart Parking System
 
 ## Overview
 
